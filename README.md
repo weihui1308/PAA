@@ -1,6 +1,6 @@
 # Introduction
 The repository is dedicated to tracking the latest advances in the field of Physical-Adversarial-Attack. The maintainer will continue to update it.
-# News :bowtie:
+# News:bowtie:
 # Order by Task
 ## Attack to Classification
 | First Header  | Second Header |
