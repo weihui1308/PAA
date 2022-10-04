@@ -6,7 +6,6 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 ## 1. Attack to Classification
 | No.| Method |        Title         | Paper | Code |
 | ---|  ---   |        ---           |   --- | ---  |
-
 | 1  | ACS    | Adversarial camera stickers: A physical camera-based attack on deep learning systems | [link](https://proceedings.mlr.press/v97/li19j.html) | [link](https://github.com/yoheikikuta/adversarial-camera-stickers) |
 | 2  | AdvCF  | Adversarial Color Film: Effective Physical-World Attack to DNNs | [link](https://arxiv.org/abs/2209.02430) | --- |
 ## 2. Attack to Detection
