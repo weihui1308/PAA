@@ -17,5 +17,5 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
 | 1  | Advhat | Advhat: Real-world adversarial attack on arcface face id system | [link](https://ieeexplore.ieee.org/abstract/document/9412236) | [link](https://github.com/papermsucode/advhat) | ICPR | 2020 |
-| 2  | AdvPattern  | advPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns | [link](https://arxiv.org/abs/1908.09327) | [link](https://github.com/whuAdv/AdvPattern) | ICCV | 2019 |
+| 2  | AdvPattern  | AdvPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns | [link](https://arxiv.org/abs/1908.09327) | [link](https://github.com/whuAdv/AdvPattern) | ICCV | 2019 |
 # Order by Time
