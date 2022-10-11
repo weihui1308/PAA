@@ -3,8 +3,6 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 # News
 [2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). (:laughing::satisfied::clap:) We will continue to polish this work. (:muscle:)
 # <details><summary>Order by Task</summary>
-<p>
-
 ## 1. Attack to Classification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
@@ -35,5 +33,4 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 1  | Advhat | Advhat: Real-world adversarial attack on arcface face id system | [link](https://ieeexplore.ieee.org/abstract/document/9412236) | [link](https://github.com/papermsucode/advhat) | ICPR | 2020 |
 | 2  | AdvPattern  | AdvPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns | [link](https://arxiv.org/abs/1908.09327) | [link](https://github.com/whuAdv/AdvPattern) | ICCV | 2019 |
 
-<p>
 </details>
