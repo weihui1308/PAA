@@ -1,5 +1,8 @@
 # Introduction
 The repository is dedicated to tracking the latest advances in the field of Physical-Adversarial-Attack (:smiling_imp:). The maintainer will continue to update it.
+
+<!-- If you find our paper and repository useful for your research, please consider citing our work: -->
+
 # News
 [2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). (:laughing::clap:) We will continue to polish this work. (:muscle:)
 # Order by Task
@@ -33,6 +36,8 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 6  | Translucent Patch | The Translucent Patch: A Physical and Universal Attack on Object Detectors | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Zolfi_The_Translucent_Patch_A_Physical_and_Universal_Attack_on_Object_CVPR_2021_paper.pdf) | --- | CVPR | 2021 |
 | 7  | DTA | DTA: Physical Camouflage Attacks using Differentiable Transformation Network | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf) | --- | CVPR | 2022 |
 | 8 | FCA | FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack | [link](https://www.aaai.org/AAAI22Papers/AAAI-8153.WangD.pdf) | [link](https://github.com/idrl-lab/Full-coverage-camouflage-adversarial-attack/tree/gh-pages/src) | AAAI | 2022 |
+| 9 | CAC | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
+|   |     | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations | [link](https://www.usenix.org/system/files/sec21fall-jing.pdf) | --- | USENIX Security | 2021 |
 
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
@@ -40,6 +45,8 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 1  | Advhat | Advhat: Real-world adversarial attack on arcface face id system | [link](https://ieeexplore.ieee.org/abstract/document/9412236) | [link](https://github.com/papermsucode/advhat) | ICPR | 2020 |
 | 2  | AdvPattern  | AdvPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns | [link](https://arxiv.org/abs/1908.09327) | [link](https://github.com/whuAdv/AdvPattern) | ICCV | 2019 |
 
+## 4. Other Tasks
+| No.| Method |        Title         |  | Paper | Code | Venue | Year |
 
 
 

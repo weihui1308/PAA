@@ -11,7 +11,7 @@
 ## 2021
 | No.|      Title       | Task  | Paper | Code  | Venue |
 | ---|       ---        |  ---  | ---   |  ---  | ---   |
-| 1  | 
+| 1  |  Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations | Lane detection | [link](https://www.usenix.org/system/files/sec21fall-jing.pdf) | --- | USENIX Security |
 
 
 ## 2022
@@ -19,6 +19,9 @@
 | ---|       ---        |  ---  | ---   |  ---  | ---   |
 | 1  | Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks | Semantic Segmentation | [link](https://openaccess.thecvf.com/content/WACV2022/html/Nesti_Evaluating_the_Robustness_of_Semantic_Segmentation_for_Autonomous_Driving_Against_WACV_2022_paper.html) | [link](https://github.com/retis-ai/semsegadvpatch) | WACV |
 | 2  | Harnessing Perceptual Adversarial Patches for Crowd Counting | Crowd Counting | [link](https://arxiv.org/abs/2109.07986) | [link](https://github.com/shunchang-liu/PAP-Pytorch) | ACM CCS |
+| 3  | Learning Coated Adversarial Camouflages for Object Detectors | Vehicle Detection | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI |
+| 4  | FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack | Vehicle Detection | [link](https://arxiv.org/abs/2109.07193) | [link](https://github.com/idrl-lab/Full-coverage-camouflage-adversarial-attack) | AAAI | 
+| 5  | Learning Coated Adversarial Camouflages for Object Detectors | Vehicle Detection | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI |
 
 
 **[⬆ top](#2016)**
