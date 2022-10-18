@@ -46,7 +46,8 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 2  | AdvPattern  | AdvPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns | [link](https://arxiv.org/abs/1908.09327) | [link](https://github.com/whuAdv/AdvPattern) | ICCV | 2019 |
 
 ## 4. Other Tasks
-| No.| Method |        Title         |  | Paper | Code | Venue | Year |
+| No.| Method |        Title         | Victim Task | Paper | Code | Venue | Year |
+| ---|  ---   |        ---           |     ---     |  ---  | ---  |  ---  | ---  |
 
 
 
