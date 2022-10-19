@@ -38,6 +38,17 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 8 | FCA | FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack | [link](https://www.aaai.org/AAAI22Papers/AAAI-8153.WangD.pdf) | [link](https://github.com/idrl-lab/Full-coverage-camouflage-adversarial-attack/tree/gh-pages/src) | AAAI | 2022 |
 | 9 | CAC | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
 |   |     | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations | [link](https://www.usenix.org/system/files/sec21fall-jing.pdf) | --- | USENIX Security | 2021 |
+|   |  Adversarial Cloak   | Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors | [link](https://link.springer.com/chapter/10.1007/978-3-030-58548-8_1) | [link](https://github.com/zxwu/adv_cloak) | ECCV | 2020 | 
+|   | NAP | Naturalistic Physical Adversarial Patch for Object Detectors | [link](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Naturalistic_Physical_Adversarial_Patch_for_Object_Detectors_ICCV_2021_paper.pdf) | [link](https://github.com/aiiu-lab/Naturalistic-Adversarial-Patch) | ICCV | 2021 |
+|   | LAP | Legitimate Adversarial Patches: Evading Human Eyes and Detection Models in the Physical World | [link](https://dl.acm.org/doi/abs/10.1145/3474085.3475653) | --- | ACM MM | 2021 |
+|   | TC-EGA | Adversarial Texture for Fooling Person Detectors in the Physical World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html) | [link](https://github.com/WhoTHU/Adversarial_Texture) | CVPR | 2022 |
+|   | Infrared Invisible Clothing | Infrared Invisible Clothing: Hiding From Infrared Detectors at Multiple Angles in Real World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.html) | --- | CVPR | 2022 |
+|   | ShapeShifter | ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector | [link](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_4) | [link](https://github.com/shangtse/robust-physical-attack) | ECML PKDD | 2018 |
+|   | Disappearance Attack | Physical Adversarial Examples for Object Detectors | [link](https://www.usenix.org/conference/woot18/presentation/eykholt) | --- | USENIX Workshop | 2018 |
+|   | SLAP | SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations | [link](https://www.usenix.org/conference/usenixsecurity21/presentation/lovisotto) | [link](https://github.com/ssloxford/short-lived-adversarial-perturbations) | USENIX SECURITY | 2021 |
+|   | Adversarial Bulbs | Fooling Thermal Infrared Pedestrian Detectors in Real World Using Small Bulbs | [link](https://ojs.aaai.org/index.php/AAAI/article/view/16477) | --- | AAAI | 2021 | 
+|   |   | Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations | [link](https://www.usenix.org/system/files/sec21fall-jing.pdf) | --- | USENIX SECURITY | 2021 |
+|   |   | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
 
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
