@@ -47,13 +47,15 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 17  | TC-EGA | Adversarial Texture for Fooling Person Detectors in the Physical World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html) | [link](https://github.com/WhoTHU/Adversarial_Texture) | CVPR | 2022 |
 |  18 | Infrared Invisible Clothing | Infrared Invisible Clothing: Hiding From Infrared Detectors at Multiple Angles in Real World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.html) | --- | CVPR | 2022 |
 | 19 | CAC | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
-
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
-| 1  | Advhat | Advhat: Real-world adversarial attack on arcface face id system | [link](https://ieeexplore.ieee.org/abstract/document/9412236) | [link](https://github.com/papermsucode/advhat) | ICPR | 2020 |
+| 1  | AdvEyeglass | Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | [link](https://dl.acm.org/doi/abs/10.1145/2976749.2978392) | [link](https://github.com/mahmoods01/accessorize-to-a-crime) | ACM SIGSAC | 2016 |
 | 2  | AdvPattern  | AdvPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns | [link](https://arxiv.org/abs/1908.09327) | [link](https://github.com/whuAdv/AdvPattern) | ICCV | 2019 |
-
+| 3  | OAP  | On Adversarial Patches: Real-World Attack on ArcFace-100 Face Recognition System | [link](https://ieeexplore.ieee.org/abstract/document/8958134) | --- | SIBIRCON | 2019 |
+| 4  | ALPA | Adversarial Light Projection Attacks on Face Recognition Systems: A Feasibility Study | [link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w48/Nguyen_Adversarial_Light_Projection_Attacks_on_Face_Recognition_Systems_A_Feasibility_CVPRW_2020_paper.html) | --- | CVPRW | 2020 |
+| 5  | Advhat | Advhat: Real-world adversarial attack on arcface face id system | [link](https://ieeexplore.ieee.org/abstract/document/9412236) | [link](https://github.com/papermsucode/advhat) | ICPR | 2020 |
+| 6  | Adv-Makeup | Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition | [link](https://arxiv.org/abs/2105.03162) | [link](https://github.com/TencentYoutuResearch/Adv-Makeup) | IJCAI | 2021 |
 ## 4. Other Tasks
 | No.| Method |        Title         | Victim Task | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |     ---     |  ---  | ---  |  ---  | ---  |
