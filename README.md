@@ -1,6 +1,8 @@
 # Introduction
 The repository is dedicated to tracking the latest advances in the field of Physical-Adversarial-Attack (:smiling_imp:). The maintainer will continue to update it.
 
+If you find any omitted literature, please feel free to submit issues for addition. Many thanks! (:heart:)
+
 <!-- If you find our paper and repository useful for your research, please consider citing our work: -->
 
 # News
