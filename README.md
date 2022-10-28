@@ -63,7 +63,7 @@ The repository is dedicated to tracking the latest advances in the field of Phys
 | 2  | SS Attack | Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks | Semantic Segmentation | [link](https://openaccess.thecvf.com/content/WACV2022/html/Nesti_Evaluating_the_Robustness_of_Semantic_Segmentation_for_Autonomous_Driving_Against_WACV_2022_paper.html) | [link](https://github.com/retis-ai/semsegadvpatch) | WACV | 2022| 
 | 3  | PAP | Harnessing Perceptual Adversarial Patches for Crowd Counting | Crowd Counting | [link](https://arxiv.org/abs/2109.07986) | [link](https://github.com/shunchang-liu/PAP-Pytorch) | ACM CCS | 2022| 
 | 4  | MDE Patch | Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches | Depth Estimation | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | ECCV | 2022 |
-
+| 5  | $\epsilon$-isometric Attack | Isometric 3D Adversarial Examples in the Physical World | 3D Point Cloud Recognition | [link](https://arxiv.org/pdf/2210.15291.pdf) | --- | NIPS | 2022 |
 
 
 # [Order by Time](https://github.com/weihui1308/PAA/blob/main/Timeline.md)
