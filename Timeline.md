@@ -69,4 +69,4 @@ Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 | ---|       ---        |  ---  | ---   |  ---  | ---   |
 | 1  | Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition |  Face Recognition  | [link](https://dl.acm.org/doi/10.1145/2976749.2978392) | [link](https://github.com/mahmoods01/accessorize-to-a-crime) | ACM SIGSAC |
 
-**[⬆ top](#2016)**
+**[⬆ top](:rainbow:)**
