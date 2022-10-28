@@ -1,4 +1,4 @@
-:rainbow::rainbow::rainbow: We track the latest work on Physical-Adversarial-Attacks and organize them in the table below in chronological order (:arrow_down:). 
+:rainbow::rainbow::rainbow: We track the latest work on Physical-Adversarial-Attack and organize them in the table below in chronological order (:arrow_down:). 
 
 Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 
