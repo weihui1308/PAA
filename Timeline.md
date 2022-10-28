@@ -1,4 +1,6 @@
-:rainbow::rainbow::rainbow: We track the latest work on Physical-Adversarial-Attacks and organize them in the table below in chronological order (:arrow_down:). Feel free to submit issues to add to it.
+:rainbow::rainbow::rainbow: We track the latest work on Physical-Adversarial-Attacks and organize them in the table below in chronological order (:arrow_down:). 
+
+Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 
 ## 2022
 | No.|      Title       | Victim Task  | Paper | Code  | Venue |
