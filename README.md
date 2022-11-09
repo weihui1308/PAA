@@ -6,7 +6,6 @@ If you find any omitted literature, please feel free to submit issues for additi
 <!-- If you find our paper and repository useful for your research, please consider citing our work: -->
 
 # News
-[2022/11/08] 
 [2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). (:laughing::clap:) We will continue to polish this work. (:muscle:)
 # Order by Task
 ## 1. Attack to Classification
