@@ -9,6 +9,7 @@ If you find any omitted literature, please feel free to submit issues for additi
 [2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). (:laughing::clap:) We will continue to polish this work. (:muscle:)
 # Order by Task
 ## 1. Attack to Classification
+:point_right:Notice: Updated to 2022.11.12!
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
 |  1  | Adversarial Patch | Adversarial Patch | [link](https://arxiv.org/abs/1712.09665) | [link](https://github.com/cleverhans-lab/cleverhans) | NIPS | 2017 |
@@ -44,11 +45,13 @@ If you find any omitted literature, please feel free to submit issues for additi
 | 12 | LAP | Legitimate Adversarial Patches: Evading Human Eyes and Detection Models in the Physical World | [link](https://dl.acm.org/doi/abs/10.1145/3474085.3475653) | --- | ACM MM | 2021 |
 | 13 | SLAP | SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations | [link](https://www.usenix.org/conference/usenixsecurity21/presentation/lovisotto) | [link](https://github.com/ssloxford/short-lived-adversarial-perturbations) | USENIX SECURITY | 2021 |
 | 14 | Adversarial Bulbs | Fooling Thermal Infrared Pedestrian Detectors in Real World Using Small Bulbs | [link](https://ojs.aaai.org/index.php/AAAI/article/view/16477) | --- | AAAI | 2021 | 
-| 15 | FCA | FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack | [link](https://www.aaai.org/AAAI22Papers/AAAI-8153.WangD.pdf) | [link](https://github.com/idrl-lab/Full-coverage-camouflage-adversarial-attack/tree/gh-pages/src) | AAAI | 2022 |
-| 16 | DTA | DTA: Physical Camouflage Attacks using Differentiable Transformation Network | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf) | --- | CVPR | 2022 |
-| 17  | TC-EGA | Adversarial Texture for Fooling Person Detectors in the Physical World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html) | [link](https://github.com/WhoTHU/Adversarial_Texture) | CVPR | 2022 |
-|  18 | Infrared Invisible Clothing | Infrared Invisible Clothing: Hiding From Infrared Detectors at Multiple Angles in Real World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.html) | --- | CVPR | 2022 |
-| 19 | CAC | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
+| 15 | Poltergeist | Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9519394) | [link](https://github.com/USSLab/PoltergeistAttack) | IEEE SP | 2021 |
+| 16 | FCA | FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack | [link](https://www.aaai.org/AAAI22Papers/AAAI-8153.WangD.pdf) | [link](https://github.com/idrl-lab/Full-coverage-camouflage-adversarial-attack/tree/gh-pages/src) | AAAI | 2022 |
+| 17 | DTA | DTA: Physical Camouflage Attacks using Differentiable Transformation Network | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf) | --- | CVPR | 2022 |
+| 18  | TC-EGA | Adversarial Texture for Fooling Person Detectors in the Physical World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html) | [link](https://github.com/WhoTHU/Adversarial_Texture) | CVPR | 2022 |
+|  19 | Infrared Invisible Clothing | Infrared Invisible Clothing: Hiding From Infrared Detectors at Multiple Angles in Real World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.html) | --- | CVPR | 2022 |
+| 20 | CAC | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
+| 21 | TPatch | TPatch: A Triggered Physical Adversarial Patch | [link](https://www.usenix.org/conference/usenixsecurity23/presentation/zhu) | [link](https://github.com/forget2save/TPatch) | USENIX Security | 2023 |
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
