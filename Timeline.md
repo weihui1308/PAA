@@ -1,5 +1,5 @@
 # Order by Time
-:rainbow::rainbow::rainbow: We track the latest work on Physical-Adversarial-Attack and organize them in the table below in chronological order. 
+We track the latest work on Physical-Adversarial-Attack and organize them in the table below in chronological order. 
 
 Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 
