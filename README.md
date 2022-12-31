@@ -65,6 +65,8 @@ Table of Contents:
 | 4  | ALPA | Adversarial Light Projection Attacks on Face Recognition Systems: A Feasibility Study | [link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w48/Nguyen_Adversarial_Light_Projection_Attacks_on_Face_Recognition_Systems_A_Feasibility_CVPRW_2020_paper.html) | --- | CVPRW | 2020 |
 | 5  | Advhat | Advhat: Real-world adversarial attack on arcface face id system | [link](https://ieeexplore.ieee.org/abstract/document/9412236) | [link](https://github.com/papermsucode/advhat) | ICPR | 2020 |
 | 6  | Adv-Makeup | Adv-Makeup: A New Imperceptible and Transferable Attack on Face Recognition | [link](https://arxiv.org/abs/2105.03162) | [link](https://github.com/TencentYoutuResearch/Adv-Makeup) | IJCAI | 2021 |
+| 7  | PP Attack | Simultaneously Optimizing Perturbations and Positions for Black-box Adversarial Patch Attacks | [link](https://arxiv.org/abs/2212.12995) | [link](https://github.com/shighghyujie/newpatch-rl) | TPAMI | 2022 |
+
 ## 4. Other Tasks
 | No.| Method |        Title         | Victim Task | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |     ---     |  ---  | ---  |  ---  | ---  |

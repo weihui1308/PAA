@@ -3,7 +3,7 @@ We track the latest work on Physical-Adversarial-Attack and organize them in the
 
 Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 
-:speaker::speaker::speaker: Notice: Updated to 2022.11.12:alarm_clock:
+:speaker::speaker::speaker: Notice: Updated to 2022.12.31:alarm_clock:
 ## 2023
 | No.|      Title       | Victim Task  | Paper | Code  | Venue |
 | ---|       ---        |  ---  | ---   |  ---  | ---   |
@@ -22,6 +22,7 @@ Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 | 9  | Adversarial Texture for Fooling Person Detectors in the Physical World | Person Detection | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html) | [link](https://github.com/WhoTHU/Adversarial_Texture) | CVPR |
 | 10  | Infrared Invisible Clothing: Hiding From Infrared Detectors at Multiple Angles in Real World | Person Detection |[link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.html) | --- | CVPR |
 | 11  | Isometric 3D Adversarial Examples in the Physical World | 3D Point Cloud Recognition | [link](https://arxiv.org/pdf/2210.15291.pdf) | --- | NIPS | 
+| 12  | Simultaneously Optimizing Perturbations and Positions for Black-box Adversarial Patch Attacks | Face Recognition | [link](https://arxiv.org/abs/2212.12995) | [link](https://github.com/shighghyujie/newpatch-rl) | TPAMI |
 ## 2021
 | No.|      Title       | Victim Task  | Paper | Code  | Venue |
 | ---|       ---        |  ---  | ---   |  ---  | ---   |
