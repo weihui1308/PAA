@@ -6,7 +6,7 @@ If you find any omitted literature, please feel free to submit issues for additi
 Table of Contents:
 - <a href="#id_666">Order by Task</a>
 - [Order by Time](https://github.com/weihui1308/PAA/blob/main/Timeline.md)
-- [Other Survey]()
+- [Other Survey](https://github.com/weihui1308/PAA/blob/main/Other%20Survey.md)
 
 <!-- If you find our paper and repository useful for your research, please consider citing our work: -->
 
