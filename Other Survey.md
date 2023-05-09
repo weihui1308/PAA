@@ -14,11 +14,9 @@
 |  11 | Adversarial Attacks and Defenses in Deep Learning: From a Perspective of Cybersecurity | [link](https://dl.acm.org/doi/abs/10.1145/3547330) | 2022 | ACM CSUR |
 |  12 | Adversarial attacks and defenses in deep learning for image recognition: A survey | [link](https://doi.org/10.1016/j.neucom.2022.09.004) | 2022 | ELSEVIER |
 |  13 | Visually Adversarial Attacks and Defenses in the Physical World: A Survey | [link](https://arxiv.org/abs/2211.01671) | 2022 | ArXiv |
-
 |  14 | A survey on adversarial attacks and defences | [link](https://doi.org/10.1049/cit2.12028) | 2021 | CAAI |
 |  15 | Adversarial Attacks Against Deep Generative Models on Data: A Survey | [link](https://ieeexplore.ieee.org/abstract/document/9627776) | 2021 | TKDE |
 |  16 | Adversarial Attacks Against Face Recognition: A Comprehensive Study | [link](https://ieeexplore.ieee.org/abstract/document/9464957) | 2021 | IEEE ACCESS |
-
 |  17 | A Survey On Universal Adversarial Attack | [link](https://arxiv.org/abs/2103.01498) | 2021 | IJCAI |
 |  18 | Advances in Adversarial Attacks and Defenses in Computer Vision: A Survey | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9614158) | 2021 | IEEE ACCESS |
 |  19 | A survey of safety and trustworthiness of deep neural networks: Verification, testing, adversarial attack and defence, and interpretability | [link](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302527) | 2020 | ELSEVIER |
