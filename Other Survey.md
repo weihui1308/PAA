@@ -4,7 +4,7 @@
 |  1 | Physical Adversarial Attacks for Surveillance: A Survey | [link](https://arxiv.org/abs/2305.01074) | 2023 | ArXiv |
 |  2 | Adversarial Attacks and Defenses in Machine Learning-Powered Networks: A Contemporaryn  Survey | [link](https://arxiv.org/pdf/2303.06302.pdf) | 2023 | ArXiv |
 |  3 | Interpreting Adversarial Examples in Deep Learning: A Review | [link](https://dl.acm.org/doi/abs/10.1145/3594869) | 2023 | ACM CSUR |
-|  4 | Adversarial examples based on object detection tasks: A survey | [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013273) | 2023 | ELSEVIER |
+|  4 | Adversarial examples based on object detection tasks: A survey | [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013273) | 2023 | ELSEVIER Neurocomputing |
 |  5 | A Survey on Physical Adversarial Attack in Computer Vision | [link](https://arxiv.org/pdf/2209.14262.pdf) | 2022 | ArXiv |
 |  6 | Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey | [link](https://arxiv.org/pdf/2206.08304.pdf) | 2022 | ArXiv |
 |  7 | A survey on adversarial attacks in computer vision: Taxonomy, visualization and future directions | [link](https://www.sciencedirect.com/science/article/abs/pii/S0167404822002413) | 2022 | ELSEVIER |
@@ -12,7 +12,7 @@
 |  9 | Adversarial Deep Learning: A Survey on Adversarial Attacks and Defense Mechanisms on Image Classification | [link](https://ieeexplore.ieee.org/abstract/document/9895425) | 2022 | IEEE ACCESS |
 |  10 | Adversarial Example Attack and Defence of Object Recognition: A Survey | [link](https://ieeexplore.ieee.org/abstract/document/9986597) | 2022 | IEEE |
 |  11 | Adversarial Attacks and Defenses in Deep Learning: From a Perspective of Cybersecurity | [link](https://dl.acm.org/doi/abs/10.1145/3547330) | 2022 | ACM CSUR |
-|  12 | Adversarial attacks and defenses in deep learning for image recognition: A survey | [link](https://doi.org/10.1016/j.neucom.2022.09.004) | 2022 | ELSEVIER |
+|  12 | Adversarial attacks and defenses in deep learning for image recognition: A survey | [link](https://doi.org/10.1016/j.neucom.2022.09.004) | 2022 | ELSEVIER Neurocomputing |
 |  13 | Visually Adversarial Attacks and Defenses in the Physical World: A Survey | [link](https://arxiv.org/abs/2211.01671) | 2022 | ArXiv |
 |  14 | A survey on adversarial attacks and defences | [link](https://doi.org/10.1049/cit2.12028) | 2021 | CAAI |
 |  15 | Adversarial Attacks Against Deep Generative Models on Data: A Survey | [link](https://ieeexplore.ieee.org/abstract/document/9627776) | 2021 | TKDE |

@@ -1,7 +1,7 @@
 # Introduction
-The repository is dedicated to tracking the latest advances in the field of Physical-Adversarial-Attack (:smiling_imp:). The maintainer will continue to update it.
+The repository is dedicated to tracking the latest advances in the field of Physical-Adversarial-Attack. The maintainer will continue to update it.
 
-If you find any omitted literature, please feel free to submit issues for addition. Many thanks! (:heart:)
+If you find any omitted literature, please feel free to submit issues for addition. Many thanks!
 
 Table of Contents:
 - <a href="#id_666">Order by Task</a>
@@ -11,7 +11,7 @@ Table of Contents:
 <!-- If you find our paper and repository useful for your research, please consider citing our work: -->
 
 # News
-[2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). (:laughing::clap:) We will continue to polish this work. (:muscle:)
+[2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). We will continue to polish this work.
 # Order by Task <span id='id_666'>
 :speaker::speaker::speaker: Notice: Updated to 2023.05.08:alarm_clock:
 ## 1. Attack to Classification
@@ -57,6 +57,11 @@ Table of Contents:
 |  19 | Infrared Invisible Clothing | Infrared Invisible Clothing: Hiding From Infrared Detectors at Multiple Angles in Real World | [link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.html) | --- | CVPR | 2022 |
 | 20 | CAC | Learning Coated Adversarial Camouflages for Object Detectors | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | IJCAI | 2022 |
 | 21 | TPatch | TPatch: A Triggered Physical Adversarial Patch | [link](https://www.usenix.org/conference/usenixsecurity23/presentation/zhu) | [link](https://github.com/forget2save/TPatch) | USENIX Security | 2023 |
+| 22 | HOTCOLD Block | HOTCOLD Block: Fooling Thermal Infrared Detectors with a Novel Wearable Design | [link](https://ojs.aaai.org/index.php/AAAI/article/view/26777) | [link](https://github.com/weihui1308/HOTCOLDBlock) | AAAI | 2023 |
+| 23 | AdvInfrared | Infrared Adversarial Patches with Learnable Shapes and Locations in the Physical World | [link](https://link.springer.com/article/10.1007/s11263-023-01963-y) | [link](https://github.com/shighghyujie/infrared_patch_attack) | IJCV | 2023 |
+| 24 | T-SEA | T-SEA: Transfer-based Self-Ensemble Attack on Object Detection | Person Detection | [link](https://arxiv.org/abs/2211.09773) | [link](https://github.com/VDIGPKU/T-SEA) | CVPR | 2023 |
+| 25 | AdvCaT | Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling |  [link](https://arxiv.org/abs/2307.01778) | [link](https://github.com/WhoTHU/Adversarial_camou) | CVPR | 2023 |
+| 26 | CMPatch | Unified Adversarial Patch for Cross-modal Attacks in the Physical World |  [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Unified_Adversarial_Patch_for_Cross-Modal_Attacks_in_the_Physical_World_ICCV_2023_paper.pdf) | [link](https://github.com/Aries-iai/Cross-modal_Patch_Attack) | ICCV | 2023 |
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
