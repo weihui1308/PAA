@@ -3,7 +3,7 @@ We track the latest work on Physical-Adversarial-Attack and organize them in the
 
 Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
 
-:speaker::speaker::speaker: Notice: Updated to 2022.12.31:alarm_clock:
+:speaker::speaker::speaker: Notice: Updated to 2024.01.19:alarm_clock:
 ## 2023
 | No.|      Title       | Victim Task  | Paper | Code  | Venue |
 | ---|       ---        |  ---  | ---   |  ---  | ---   |
