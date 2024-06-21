@@ -13,7 +13,7 @@ Table of Contents:
 # News
 [2022/10/01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). We will continue to polish this work.
 # Order by Task <span id='id_666'>
-:speaker::speaker::speaker: Notice: Updated to 2024.01.19:alarm_clock:
+:speaker::speaker::speaker: Notice: Updated to 2024.06.21:alarm_clock:
 ## 1. Attack to Classification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
@@ -33,6 +33,7 @@ Table of Contents:
 |  14  | AdvLB | Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_Adversarial_Laser_Beam_Effective_Physical-World_Attack_to_DNNs_in_a_CVPR_2021_paper.pdf) | [link](https://github.com/RjDuan/Advlight) | CVPR | 2021 |
 |  15  | Adversarial Shadow | Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Shadows_Can_Be_Dangerous_Stealthy_and_Effective_Physical-World_Adversarial_Attack_CVPR_2022_paper.pdf) | [link](https://github.com/hncszyq/ShadowAttack) | CVPR | 2022 |
 | 16  | AdvCF  | Adversarial Color Film: Effective Physical-World Attack to DNNs | [link](https://arxiv.org/abs/2209.02430) | --- | Arxiv | 2022 |
+|  17  | TT3D | Towards Transferable Targeted 3D Adversarial Attack in the Physical World | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Towards_Transferable_Targeted_3D_Adversarial_Attack_in_the_Physical_World_CVPR_2024_paper.pdf) | [link](https://github.com/aries-iai/tt3d) | CVPR | 2024 |
 ## 2. Attack to Detection
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
@@ -63,6 +64,8 @@ Table of Contents:
 | 25 | T-SEA | T-SEA: Transfer-based Self-Ensemble Attack on Object Detection | [link](https://arxiv.org/abs/2211.09773) | [link](https://github.com/VDIGPKU/T-SEA) | CVPR | 2023 |
 | 26 | AdvCaT | Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling |   [link](https://arxiv.org/abs/2307.01778) | [link](https://github.com/WhoTHU/Adversarial_camou) | CVPR | 2023 |
 | 27 | CMPatch | Unified Adversarial Patch for Cross-modal Attacks in the Physical World |  [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Unified_Adversarial_Patch_for_Cross-Modal_Attacks_in_the_Physical_World_ICCV_2023_paper.pdf) | [link](https://github.com/Aries-iai/Cross-modal_Patch_Attack) | ICCV | 2023 |
+|  28 | DAP |DAP: A Dynamic Adversarial Patch for Evading Person Detectors | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf) | --- | CVPR | 2024 |
+|  29 | IACS | Infrared Adversarial Car Stickers | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Infrared_Adversarial_Car_Stickers_CVPR_2024_paper.pdf) | --- | CVPR | 2024 |
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
@@ -82,6 +85,7 @@ Table of Contents:
 | 3  | PAP | Harnessing Perceptual Adversarial Patches for Crowd Counting | Crowd Counting | [link](https://arxiv.org/abs/2109.07986) | [link](https://github.com/shunchang-liu/PAP-Pytorch) | ACM CCS | 2022| 
 | 4  | MDE Patch | Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches | Depth Estimation | [link](https://www.ijcai.org/proceedings/2022/0125.pdf) | --- | ECCV | 2022 |
 | 5  | $\epsilon$-isometric Attack | Isometric 3D Adversarial Examples in the Physical World | 3D Point Cloud Recognition | [link](https://arxiv.org/pdf/2210.15291.pdf) | --- | NIPS | 2022 |
+| 6  | 3D$^2$Fool | Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving | Depth Estimation | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Physical_3D_Adversarial_Attacks_against_Monocular_Depth_Estimation_in_Autonomous_CVPR_2024_paper.pdf) | [link](https://github.com/Gandolfczjh/3D2Fool) | CVPR | 2024 |
 
 
 # [Order by Time](https://github.com/weihui1308/PAA/blob/main/Timeline.md)
