@@ -1,7 +1,7 @@
 # Order by Time
 We track the latest work on Physical-Adversarial-Attack and organize them in the table below in chronological order. 
 
-Feel free to submit issues for addition. Thanks! (:heart::heart::heart:)
+Feel free to submit issues for addition. Thanks!
 
 :speaker::speaker::speaker: Notice: Updated to 2024.06.21:alarm_clock:
 ## 2024
