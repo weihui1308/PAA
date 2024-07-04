@@ -1,5 +1,5 @@
 # Introduction
-The repository is dedicated to tracking the latest advances in the field of Physical-Adversarial-Attack. The maintainer will continue to update it.
+The repository is dedicated to tracking the latest advances in the field of Physical Adversarial Attack (PAA). The maintainer will continue to update it.
 
 If you find any omitted literature, please feel free to submit issues for addition. Many thanks!
 
