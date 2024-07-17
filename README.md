@@ -11,7 +11,7 @@ Table of Contents:
 <!-- If you find our paper and repository useful for your research, please consider citing our work: -->
 
 # News
-[2024-07-17] :fire: Our paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179), has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). We are currently working on further refining this research for its fourth version.
+[2024-07-17] :fire: Our paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179), has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). We are currently working on further refining this research for its fourth version.  
 [2022-10-01] We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). We will continue to polish this work.
 # Order by Task <span id='id_666'>
 :speaker::speaker::speaker: Notice: Updated to 2024.06.21:alarm_clock:
