@@ -83,6 +83,8 @@ If you find our work useful, please kindly cite as:
 | 27 | CMPatch | Unified Adversarial Patch for Cross-modal Attacks in the Physical World |  [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Unified_Adversarial_Patch_for_Cross-Modal_Attacks_in_the_Physical_World_ICCV_2023_paper.pdf) | [link](https://github.com/Aries-iai/Cross-modal_Patch_Attack) | ICCV | 2023 |
 |  28 | DAP |DAP: A Dynamic Adversarial Patch for Evading Person Detectors | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf) | --- | CVPR | 2024 |
 |  29 | IACS | Infrared Adversarial Car Stickers | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Infrared_Adversarial_Car_Stickers_CVPR_2024_paper.pdf) | --- | CVPR | 2024 |
+|  30 | CAP | Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection  | [link](https://openreview.net/forum?id=2Inwtjvyx8&referrer=%5Bthe%20profile%20of%20Zhixiang%20Wang%5D(%2Fprofile%3Fid%3D~Zhixiang_Wang1)) | [link](https://github.com/weihui1308/CAP) | NeurIPS | 2024 |
+|  31 | FDA | Full-Distance Evasion of Pedestrian Detectors in the Physical World | [link](https://openreview.net/forum?id=lWYwZklSvg&referrer=%5BReviewers%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FReviewers%23assigned-submissions)) | --- | NeurIPS | 2024 |
 ## 3. Attack to Re-Identification
 | No.| Method |        Title         | Paper | Code | Venue | Year |
 | ---|  ---   |        ---           |   --- | ---  |  ---  | ---  |
