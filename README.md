@@ -15,6 +15,20 @@ Table of Contents:
 [2024-07-17] :fire: Our paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179), has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). We are currently working on further refining this research for its fourth version.  
 
 [2022-10-01] :neutral_face: We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). We will continue to polish this work.
+
+# Citation
+
+If you find our work useful, please kindly cite as:
+```
+@article{wei2024physical,
+  title={Physical adversarial attack meets computer vision: A decade survey},
+  author={Wei, Hui and Tang, Hao and Jia, Xuemei and Wang, Zhixiang and Yu, Hanxun and Li, Zhubo and Satoh, Shin'ichi and Van Gool, Luc and Wang, Zheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
 # Order by Task <span id='id_666'>
 :speaker::speaker::speaker: Notice: Updated to 2024.06.21:alarm_clock:
 ## 1. Attack to Classification
