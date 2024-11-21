@@ -11,6 +11,8 @@ Feel free to submit issues for addition. Thanks!
 |  2 | DAP: A Dynamic Adversarial Patch for Evading Person Detectors | Person Detection | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf) | --- | CVPR |
 |  3 | Towards Transferable Targeted 3D Adversarial Attack in the Physical World | Classification | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Towards_Transferable_Targeted_3D_Adversarial_Attack_in_the_Physical_World_CVPR_2024_paper.pdf) | [link](https://github.com/aries-iai/tt3d) | CVPR |
 |  4 | Infrared Adversarial Car Stickers | Vehicle Detection | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Infrared_Adversarial_Car_Stickers_CVPR_2024_paper.pdf) | --- | CVPR |
+|  5 | Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection | Person Detection | [link](https://openreview.net/forum?id=2Inwtjvyx8&referrer=%5Bthe%20profile%20of%20Zhixiang%20Wang%5D(%2Fprofile%3Fid%3D~Zhixiang_Wang1)) | [link](https://github.com/weihui1308/CAP) | NeurIPS |
+|  6 | Full-Distance Evasion of Pedestrian Detectors in the Physical World | Person Detection | [link](https://openreview.net/forum?id=lWYwZklSvg&referrer=%5BReviewers%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FReviewers%23assigned-submissions)) | --- | NeurIPS |
 
 ## 2023
 | No.|      Title       | Victim Task  | Paper | Code  | Venue |
