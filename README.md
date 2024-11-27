@@ -1,5 +1,5 @@
 # Introduction
-Our paper, titled "Physical Adversarial Attack meets Computer Vision: A Decade Survey," has been published in TPAMI.  
+Our paper, titled "Physical Adversarial Attack meets Computer Vision: A Decade Survey," has been published in TPAMI. This survey aims to summarize, evaluate, and analyze existing physical adversarial attack methods, providing insights for the development of trustworthy AI.  
 [Paper](https://camera-agnostic.github.io/) | [arXiv](https://arxiv.org/abs/2209.15179)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=weihui1308/PAA)
