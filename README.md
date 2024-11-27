@@ -1,4 +1,9 @@
 # Introduction
+### Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection (TPAMI)
+[Paper](https://camera-agnostic.github.io/) | [arXiv](https://arxiv.org/abs/2209.15179)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=weihui1308/PAA)
+
 The repository is dedicated to tracking the latest advances in the field of Physical Adversarial Attack (PAA). The maintainer will continue to update it.
 
 If you find any omitted literature, please feel free to submit issues for addition. Many thanks!
