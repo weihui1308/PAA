@@ -1,11 +1,10 @@
 # Introduction
+Our paper, titled "Physical Adversarial Attack meets Computer Vision: A Decade Survey," has been published in TPAMI.  
 [Paper](https://camera-agnostic.github.io/) | [arXiv](https://arxiv.org/abs/2209.15179)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=weihui1308/PAA)
 
 The repository is dedicated to tracking the latest advances in the field of Physical Adversarial Attack (PAA). The maintainer will continue to update it.
-
-Our paper, titled "Physical Adversarial Attack meets Computer Vision: A Decade Survey," has been published in TPAMI.
 
 If you find any omitted literature, please feel free to submit issues for addition. Many thanks!
 
