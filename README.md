@@ -14,6 +14,8 @@ Table of Contents:
 - [Other Survey](https://github.com/weihui1308/PAA/blob/main/Other%20Survey.md)
 
 # News
+[2024-12-09] 📊 We have released the corresponding quantitative data and the code for computing hiPAA. please refer to **`code/hippa.md`**.
+
 [2024-11-21] :zap: We have submitted the latest version of our survey paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). Feedback and discussions are highly welcome.  
 
 [2024-07-17] :fire: Our paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179), has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). We are currently working on further refining this research for its fourth version.  
