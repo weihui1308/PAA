@@ -21,7 +21,7 @@ Table of Contents:
 [2022-10-01] :neutral_face: We have submitted our Physical-Adversarial-Attack survey on arXiv: [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). We will continue to polish this work.
 
 # Evaluation
-```POV-Ray SDL
+```CSS
 In our survey paper, we introduce a metric named hiPAA (Hexagonal Indicator of Physical Adversarial Attack), which encompasses six dimensions: Effectiveness, Stealthiness, Robustness, Practicability, Aesthetics, and Economics. This metric provides a systematic perspective for evaluating physical adversarial attacks.
 
 Using hiPAA, we quantitatively evaluated existing methods. We also release the corresponding quantitative data and the code for computing hiPAA. The results are presented as radar charts. For detailed instructions, please refer to code/calculate.md.
