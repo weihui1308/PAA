@@ -14,7 +14,7 @@ Table of Contents:
 - [Other Survey](https://github.com/weihui1308/PAA/blob/main/Other%20Survey.md)
 
 # News
-[2024-12-09] 📊 We have released the corresponding quantitative data and the code for computing hiPAA. please refer to **`code/hiPAA.md`**.
+[2024-12-09] 📊 We have released the corresponding quantitative data and the code for computing hiPAA. Please refer to **`code/hiPAA.md`**.
 
 [2024-11-21] :zap: We have submitted the latest version of our survey paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). Feedback and discussions are highly welcome.  
 
