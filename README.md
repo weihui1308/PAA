@@ -22,7 +22,9 @@ Table of Contents:
 
 # Evaluation
 ```POV-Ray SDL
-some text in red!
+In our survey paper, we introduce a metric named hiPAA (Hexagonal Indicator of Physical Adversarial Attack), which encompasses six dimensions: Effectiveness, Stealthiness, Robustness, Practicability, Aesthetics, and Economics. This metric provides a systematic perspective for evaluating physical adversarial attacks.
+
+Using hiPAA, we quantitatively evaluated existing methods. We also release the corresponding quantitative data and the code for computing hiPAA. The results are presented as radar charts. For detailed instructions, please refer to code/calculate.md.
 ```
 
 # Citation
