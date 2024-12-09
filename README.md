@@ -14,7 +14,7 @@ Table of Contents:
 - [Other Survey](https://github.com/weihui1308/PAA/blob/main/Other%20Survey.md)
 
 # News
-[2024-12-09] 📊 We have released the corresponding quantitative data and the code for computing hiPAA. Please refer to **`code/hiPAA.md`**.
+[2024-12-09] 📊 We have released the corresponding quantitative data and the code for computing hiPAA. Please refer to **`code/hiPAA.m`**.
 
 [2024-11-21] :zap: We have submitted the latest version of our survey paper, [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://arxiv.org/abs/2209.15179). Feedback and discussions are highly welcome.  
 
@@ -25,7 +25,7 @@ Table of Contents:
 # Evaluation
 In our survey paper, we introduce a metric named hiPAA (Hexagonal Indicator of Physical Adversarial Attack), which encompasses six dimensions: Effectiveness, Stealthiness, Robustness, Practicability, Aesthetics, and Economics. This metric provides a systematic perspective for evaluating physical adversarial attacks.
 
-Using hiPAA, we quantitatively evaluated existing methods. We also release the corresponding quantitative data and the code for computing hiPAA. The results are presented as radar charts. For detailed instructions, please refer to **`code/hiPAA.md`**.
+Using hiPAA, we quantitatively evaluated existing methods. We also release the corresponding quantitative data and the code for computing hiPAA. The results are presented as radar charts. For detailed instructions, please refer to **`code/hiPAA.m`**.
 
 
 # Citation
