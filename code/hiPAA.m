@@ -1,3 +1,6 @@
+% This code takes the calculation of the hiPAA score of Adv-Shadow as an example. 
+% The paper title is "Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon."
+
 clear;clc;
 
 AdvShadow=[0.95 0.50 1.00 0.60 0.20 0.99];   % Effectiveness, Stealthiness, Robustness, Practicability, Aesthetics, and Economics
