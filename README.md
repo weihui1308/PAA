@@ -27,7 +27,7 @@ In our survey paper, we introduce a metric named hiPAA (Hexagonal Indicator of P
 
 Using hiPAA, we quantitatively evaluated existing methods. We also release the corresponding quantitative data and the code for computing hiPAA. The results are presented as radar charts. For detailed instructions, please refer to **`code/hiPAA.m`**.
 
-![Figure](https://github.com/weihui1308/PAA/blob/main/assets/1.png?raw=true)
+![Figure](https://github.com/weihui1308/PAA/blob/main/assets/evaluation.jpg?raw=true)
 
 # Citation
 If you find our paper and repository useful for your research, please kindly cite as:
