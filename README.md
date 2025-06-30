@@ -33,10 +33,13 @@ Using hiPAA, we quantitatively evaluated existing methods. We also release the c
 If you find our paper and repository useful for your research, please kindly cite as:
 ```
 @article{wei2024physical,
-  title={Physical adversarial attack meets computer vision: A decade survey},
-  author={Wei, Hui and Tang, Hao and Jia, Xuemei and Wang, Zhixiang and Yu, Hanxun and Li, Zhubo and Satoh, Shin'ichi and Van Gool, Luc and Wang, Zheng},
+  title={Physical Adversarial Attack Meets Computer Vision: A Decade Survey},
+  author={Wei, Hui and Tang, Hao and Jia, Xuemei and Wang, Zhixiang and Yu, Hanxun and Li, Zhubo and Satoh, Shin’ichi and Van Gool, Luc and Wang, Zheng},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2024},
-  publisher={IEEE}
+  volume={46},
+  number={12},
+  pages={9797-9817},
+  doi={10.1109/TPAMI.2024.3430860}
 }
 ```
